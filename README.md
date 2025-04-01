@@ -9,11 +9,11 @@
   #### Executar o jogo
     ./truco
 # 🎮 Funcionalidades Implementadas
-  Sistema completo de cartas:
+ #### Sistema completo de cartas:
   
-  Baralho com 40 cartas (7 a 12, sem 8 e 9)
+  - Baralho com 40 cartas (7 a 12, sem 8 e 9)
   
-  Hierarquia correta das cartas (Zap, 7 de Copas, Espadilha, etc.)
+  - Hierarquia correta das cartas (Zap, 7 de Copas, Espadilha, etc.)
   
   #### Mecânica de jogo:
   
